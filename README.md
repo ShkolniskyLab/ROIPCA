@@ -1,5 +1,5 @@
 # ROIPCA
-This repository reproducea the examples in "ROIPCA: An online memory-restricted PCA algorithm based on rank-one
+This repository reproduces the examples in "ROIPCA: An online memory-restricted PCA algorithm based on rank-one
 updates"
 
 online_pca_comparison.m - reproduces Tables 2,3,4
